@@ -1,16 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=footer&text=Git%20Creative&fontSize=90)
 
-<!--
-**SteministCoder/SteministCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+  <a href = "https://laceygreene.netlify.app"><img border-radius = "100%" src = "https://user-images.githubusercontent.com/102538779/165004134-305f0e9d-1e2a-4d53-9304-9aaf5983363a.png" alt = "Portfolio"></a>
+  <a href = "https://www.linkedin.com/in/lacey-greene/"><img src = "https://user-images.githubusercontent.com/102538779/165004752-3915858d-5113-4fea-a71c-f74e5d06ef4b.png" alt = "LinkedIn"></a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey, I'm Lacey! I am a New Orleans, LA & Seattle, WA based Software Engineer and a ScrumAlliance Certified Scrum Product Owner. I'm carrying on a legacy of a three generations committed to creativity, innovation, and diversity in STEM.
+
+<br>
+
+See <a href = "https://laceygreene.netlify.app">my portfolio</a> for more.
