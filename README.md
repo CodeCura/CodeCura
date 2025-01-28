@@ -7,8 +7,8 @@
 
 <br>
 
-Hey, I'm Lacey! I am a New Orleans, LA & Seattle, WA based Software Engineer and a ScrumAlliance Certified Scrum Product Owner. I'm carrying on a legacy of a three generations committed to creativity, innovation, and diversity in STEM.
+Hey, I'm Lacey! I am a New Orleans & Seattle based Software Engineer & Product Manager. I'm strategic thinker who makes decisions based on data and a deep understanding of the bigger picture. I'm known for being highly adept at balancing technical execution with customer-centric solutions, creating value through innovation and collaboration. I consider myself natural and professionally skilled leader with a passion for technology and business growth, always looking for ways to innovate and create value. 
 
 <br>
 
-See <a href = "https://laceygreene.netlify.app">my portfolio</a> for more.
+Let's connect! <a href = "https://linktr.ee/laceygreene">Learn more about Lacey on Linktree</a>
